@@ -2,7 +2,7 @@
 Description: Landing Page for the smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs.
 
 ## Deployment
-Here is the deployed website: <a href="https://omnifood-samira.netlify.">Omnifood Website</a>
+Here is the deployed website: <a href="https://omnifood-samira.netlify.app/">Omnifood Website</a>
 
 ## Built With 
 * HTML
